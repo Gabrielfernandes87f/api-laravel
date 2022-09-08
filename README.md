@@ -44,25 +44,28 @@ REDIS_PORT=6379
 
 
 Suba os containers do projeto
+
 ```sh
 docker-compose up -d --build
-```
 ```
 
 
 Acessar o container do projeto
+
 ```sh
 docker-compose exec laravel_8 bash
 ```
 
 
 Instalar as dependências do projeto
+
 ```sh
 composer install
 ```
 
 
 Gerar a key do projeto Laravel
+
 ```sh
 php artisan key:generate
 ```
