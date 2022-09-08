@@ -8,11 +8,11 @@ Para testar o projeto, siga os passos descritos abaixo
 ### Passo a passo
 Clone Repositório
 ```sh
-git clone https://github.com/especializati/curso-laravel-api-ead.git
+git clone  git@github.com:Gabrielfernandes87f/api-laravel.git
 ```
 
 ```sh
-cd curso-laravel-api-ead
+cd api-laravel
 ```
 
 Crie o Arquivo .env
