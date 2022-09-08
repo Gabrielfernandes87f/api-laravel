@@ -8,7 +8,7 @@ Para testar o projeto, siga os passos descritos abaixo
 ### Passo a passo
 Clone Repositório
 ```sh
-git clone  git@github.com:Gabrielfernandes87f/api-laravel.git
+git clone  https://github.com/Gabrielfernandes87f/api-laravel.git
 ```
 
 ```sh
